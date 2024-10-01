@@ -13,3 +13,7 @@ https://www.w3schools.com/java/java_hashmap.asp
 //I used this to create a hashmap, or dictionary
 https://stackoverflow.com/questions/5762491/how-to-print-color-in-console-using-system-out-println
 //I used this to print colors to the terminal.
+
+To compile: javac -d . *.java
+
+To Run: java mazepack.MazeBootstrap
